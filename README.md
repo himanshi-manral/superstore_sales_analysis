@@ -38,7 +38,7 @@ The goal is to help management make data-driven decisions to improve profitabili
 - Discount
 
 ---
-#### Dashboard Preview
+## Dashboard Preview
 https://github.com/himanshi-manral/superstore_sales_analysis/blob/main/snapshot_of_dashboard.jpeg
 
 ---
