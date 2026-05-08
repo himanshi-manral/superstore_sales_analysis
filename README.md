@@ -171,7 +171,13 @@ Conduct a detailed audit of:
 Increase marketing initiatives and strengthen sales operations in the South region to improve market penetration and revenue growth.
 
 ---
+## 📁 Files Included
+- `snapshot_of_dashboard`
+- `superstore_sales_data_analysis.ipynb`
+- `superstore_sales_data_analysis.pbix`
+- `superstore_sales_data_analysis.sql`
 
+---
 # 📈 Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow involving:
